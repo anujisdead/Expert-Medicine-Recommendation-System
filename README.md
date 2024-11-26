@@ -7,3 +7,8 @@ For Backend:
   Python Flask
 Machine Learning System:
   Tested multiple algorithms and finally conclued on SUPPORT VECTOR CLASSIFIER.
+
+
+
+THE MAIN ADVANTAGE OF USING THIS SYSTEM OVER OTHER SYSTEMS IS :
+WE PROVIDE A SPEECH RECOGNIZED WAY OF ENTERING YOUR SYMPTOMS
